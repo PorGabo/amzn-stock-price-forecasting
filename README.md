@@ -26,5 +26,5 @@ The **Support Vector Regressor** was the top-performing model:
 
 ---
 **Developed by Gabriel RODRIGUEZ POSTIGO**
-*Computer Science Student @ Universidad Católica San Pablo (UCSP)*
+*Computer Science Student @ UCSP*
 *Arequipa, Perú*
